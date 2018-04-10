@@ -1,0 +1,153 @@
+		body {
+			margin: 0;
+			padding: 0;
+			background: #ccc;
+			font-family: "cheltenham";
+    		color: #333;
+    		background-color: #fff;
+		}
+
+		#container {
+			width: 960px;
+			margin: 0 auto;
+		}
+		#content2 {
+			ffloat: left;
+			width: 900px;
+			background: #fff;
+			margin: 0 auto;
+		}
+
+		#header { 
+			padding: 30px;
+			background: #bbb;
+		}
+		#content {
+			ffloat: left;
+			width: 660px;
+			background: #fff;
+			margin: 0 auto;
+		}
+		#navigation {
+			ffloat: right;
+			width: 300px;
+			background: #eee;
+		}
+		#navigation a {
+			display: block;
+			margin: 0 0 10px 0;
+		}
+		#footer {
+			clear: both;
+			background: #aaa;
+			padding: 10px;
+		}
+
+		img {
+			height: auto;
+    		max-width: 100%;
+		}
+
+		#space {
+			 font-size: 30px;
+			 font-style: italic;
+		}
+
+		#specio {
+			font-size: 13px;
+		    font-size: 0.8125rem;
+		    line-height: 16px;
+		    line-height: 1rem;
+		    font-weight: 700;
+		    font-style: normal;
+		    font-family: "nyt-franklin",arial,helvetica,sans-serif;
+		    letter-spacing: 0.05em;
+		}
+			
+		.ttxt {
+			font-size: 16px;
+		    font-size: 1rem;
+		    line-height: 23px;
+		    line-height: 1.4375rem;
+		    font-weight: 400;
+		    font-style: normal;
+		    font-family: georgia,"times new roman",times,serif;
+		}
+
+		.ad {
+			width: 100%;
+    		text-align: center;    		
+		}
+		
+
+
+#inflat1 {
+			float: left;
+			width: 225px;
+			background: #fff;
+			margin: 0 auto;
+		}
+#inflat2 {
+			float: left;
+			width: 225px;
+			background: #fff;
+			margin: 0 auto;
+		}
+#inflat3 {
+			float: left;
+			width: 225px;
+			background: #fff;
+			margin: 0 auto;
+		}
+#inflat4 {
+			float: left;
+			width: 225px;
+			background: #fff;
+			margin: 0 auto;
+		}
+
+p#seclet {
+	font-family: nyt-franklin,arial,helvetica,sans-serif;
+    font-size: 13px;
+    line-height: 17px;
+    font-weight: 300;
+    color: #000000;
+    padding: 10px;
+    margin: 0 auto;
+}
+
+span#expansion {
+    font-size: 12px;
+    font-weight: bold;
+    letter-spacing: .05em;
+}
+
+    hedline {
+    font-size: 20px;
+    font-size: 1.25rem;
+    line-height: 24px;
+    line-height: 1.5rem;
+    font-weight: 700;
+    font-style: normal;
+    font-family: "cheltenham-normal-700",georgia,"times new roman",times,serif;
+    margin-bottom: 3px;
+    color: #333;
+}
+
+
+span.vers {
+			font-size: 0.6875rem;   
+		    line-height: 0.9375rem;
+		    font-weight: 300;		    
+		    font-family: "nyt-franklin",arial,helvetica,sans-serif;
+		    color: #999;  
+}
+
+.klir {
+		clear:both;
+}
+
+.times {
+	float: left;
+	margin-right: 20px;
+}
