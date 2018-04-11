@@ -76,7 +76,7 @@
 
 		.ad {
 			width: 100%;
-    		text-align: center;    		
+    		text-align: center;        		
 		}
 		
 
@@ -150,4 +150,109 @@ span.vers {
 .times {
 	float: left;
 	margin-right: 20px;
+}
+
+.caption {
+	font-size: 0.875rem;    
+    line-height: 1.125rem;
+    font-weight: 300;
+    font-style: normal;
+    font-family: "nyt-cheltenham-sh",georgia,"times new roman",times,serif;
+    color: #66666f;
+}
+
+li a {
+    color: #999;
+}
+a:visited {
+    color: #326891;
+}
+a:link {
+    text-decoration: none;
+    color: #326891;
+}
+
+ li {
+    float: left;
+}
+
+a {
+    display: block;
+    padding: 8px;
+    bbackground-color: #dddddd;
+}
+
+.fut {
+		font-size: 0.6875rem;   
+		line-height: 0.9375rem;
+		font-weight: 300;		    
+		font-family: "nyt-franklin",arial,helvetica,sans-serif;
+		color: #999; 
+	}
+
+#contop {		
+			width: 900px;
+			background: #fff;
+			margin: 0 auto;					
+		}
+	
+#top1 {
+			float: left;
+			width: 225px;
+			background: #fff;
+			margin: 0 auto;
+		}
+#top2 {
+			float: left;
+			width: 225px;
+			background: #fff;
+			margin: 0 auto;
+		}
+#top3 {
+			float: left;
+			width: 225px;
+			background: #fff;
+			margin: 0 auto;
+		}
+#top4 {
+			float: left;
+			width: 225px;
+			background: #fff;
+			margin: 0 auto;
+		}
+
+#top1 img {	
+	float: left;	
+	margin-right: 10px;
+}
+#top2 img {	
+	float: left;	
+	margin-right: 10px;
+}
+
+#top3 img {	
+	float: left;	
+	margin-right: 10px;
+}
+#top4 img {	
+	float: left;	
+	margin-right: 10px;
+}
+.lin {
+	clear: both;
+}
+
+
+#contop p a {
+	font-size: 0.8125rem;
+    line-height: 16px;
+    line-height: 1rem;
+    font-weight: 300;
+    font-style: normal;
+    font-family: "nyt-cheltenham-sh",georgia,"times new roman",times,serif;
+    color: #333;
+}
+
+#contop a:hover {	
+    text-decoration: underline;
 }
