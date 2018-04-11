@@ -251,8 +251,13 @@ a {
     font-style: normal;
     font-family: "nyt-cheltenham-sh",georgia,"times new roman",times,serif;
     color: #333;
+    margin-top: 40px;
 }
 
 #contop a:hover {	
     text-decoration: underline;
+}
+
+#nav {
+	position: fixed;
 }
